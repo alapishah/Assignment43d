@@ -1,0 +1,72 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "The Clover and the Bee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.345447,
+          38.590825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Gokul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.297814,
+          38.655604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Mission Taco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21594,
+          38.6154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Twisted Ranch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.199845,
+          38.610691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Meskerem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.242708,
+          38.602291
+        ]
+      }
+    }
+  ]
+}
+
